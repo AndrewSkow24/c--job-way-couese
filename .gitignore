@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+task_*
+!task_*.cpp

@@ -27,6 +27,7 @@ int main() {
 
     } else {
         cout << "Вы ввели некорректные данные!" << endl;
+        return 1;
     }
 
     return 0; 
